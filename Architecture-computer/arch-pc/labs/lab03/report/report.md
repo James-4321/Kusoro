@@ -42,3 +42,5 @@
 **Вывод: Из этой лабораторной работы я узнал, как создать репозиторий и клонировать его на свой командный терминал, а также сгенерировать ключдля входа в репозиторий. Наконец-то я узнал, как загрузить проделанную работу на github.**
 
 **Ссылка на официальный сайт** [Github](https://github.com/James-4321/Kusoro/tree/main/Architecture-computer/arch-pc/labs/lab03)
+[Курс на Туис](https://esystem.rudn.ru/course/view.php?id=22)
+[Лабораторная Работа](https://esystem.rudn.ru/mod/assign/view.php?id=1030503)
